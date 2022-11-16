@@ -7,13 +7,13 @@ describing what the program does.*/
 
 
 
-// Ayesha Hussain, oct5, 2022;
+// Ayesha Hussain, oct5, 2022;   comments for line
 // This code is showing subtraction function.
 
-// let num = 12;
-// let num2 = 4;
-// let num3 = (num - num2);
-// alert("num - num2 = " + num3);
+/* let num = 12;
+let num2 = 4;
+let num3 = (num - num2);
+ alert("num - num2 = " + num3);*/ comments for paragraph
 
 // Ayesha Hussain, oct5, 2022;
 // This code is showing whtie space before & after the variable function.
